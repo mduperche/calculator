@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/mdupercheaz400/Integrating%20External%20Source%20Control/_apis/build/status/mduperche.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/mdupercheaz400/Integrating%20External%20Source%20Control/_build/latest?definitionId=8&branchName=refs%2Fpull%2F1%2Fmerge)
